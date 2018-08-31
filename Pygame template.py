@@ -47,3 +47,5 @@ while  running:
          #after drawing everything flip display
         pygame.display.flip()
         
+        
+     pygame.quit()
