@@ -1,3 +1,3 @@
 # Major-Class-projects
 
-Repo for my python class
+Repo for projects outside of class as well as larger assignments in python class
